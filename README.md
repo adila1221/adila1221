@@ -1,60 +1,30 @@
 
-# Adila Arega
+# Hi, I'm Adila Arega 👋
 
 ### MERN & PERN Stack Developer
 
-Building practical, scalable web applications and turning ideas into functional software.
+I build full-stack web applications with a focus on practical problem-solving, clean code, and useful user experiences.
 
-I enjoy developing full-stack applications, solving problems, and exploring technologies that make software more useful.
+- 💻 Working with the MERN and PERN stacks
+- 🚀 Building real-world full-stack projects
+- 🌱 Continuously improving my software engineering skills
+- 🎯 Open to software development internships and junior roles
 
-- Full-stack development with MERN and PERN
-- Building real-world web applications
-- Interested in clean code, APIs, and database design
-- Open to internships and junior developer opportunities
+### 🛠️ Tech Stack
 
----
+**Frontend:** React.js, HTML, CSS, JavaScript
 
-### Technical Skills
+**Backend:** Node.js, Express.js, REST APIs
 
-| Category | Technologies |
-|---|---|
-| Frontend | React.js, JavaScript, HTML5, CSS3 |
-| Backend | Node.js, Express.js |
-| Databases | MongoDB, PostgreSQL |
-| ORM | Prisma |
-| Tools | Git, GitHub, VS Code |
-| API Development | REST APIs |
+**Databases:** MongoDB, PostgreSQL
 
-### Featured Projects
+**Tools:** Git, GitHub, Prisma ORM, Postman
 
-**QR Restaurant Ordering System**
+### 📌 Featured Projects
 
-A full-stack restaurant ordering application designed to let customers browse menus and place orders through QR codes.
+- **QR Restaurant Ordering System** — Building a full-stack restaurant ordering application with React, Express, PostgreSQL, and Prisma.
 
-- Frontend: React.js
-- Backend: Node.js, Express.js
-- Database: PostgreSQL
-- ORM: Prisma
+### 🤝 Connect With Me
 
-[View Project](YOUR_PROJECT_REPOSITORY_LINK)
-
-**More projects coming soon...**
-
----
-
-### GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adila1221&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adila1221&layout=compact&hide_border=true&theme=default)
-
----
-
-### Connect With Me
-
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/adilaarega)
 - GitHub: [@adila1221](https://github.com/adila1221)
-- LinkedIn: [Adila Arega](YOUR_LINKEDIN_URL)
-
----
-
-*Build. Learn. Improve. Repeat.*
