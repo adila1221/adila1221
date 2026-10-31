@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**adila1221/adila1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Adila Arega 👋
 
-Here are some ideas to get you started:
+### MERN & PERN Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build full-stack web applications with a focus on practical problem-solving, clean code, and useful user experiences.
+
+- 💻 Working with the MERN and PERN stacks
+- 🚀 Building real-world full-stack projects
+- 🌱 Continuously improving my software engineering skills
+- 🎯 Open to software development internships and junior roles
+
+### 🛠️ Tech Stack
+
+**Frontend:** React.js, HTML, CSS, JavaScript
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Databases:** MongoDB, PostgreSQL
+
+**Tools:** Git, GitHub, Prisma ORM
+
+### 📌 Featured Projects
+
+- **QR Restaurant Ordering System** — Building a full-stack restaurant ordering application with React, Express, PostgreSQL, and Prisma.
+
+### 🤝 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/adilaarega)
+- GitHub: [@adila1221](https://github.com/adila1221)
